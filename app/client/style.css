@@ -10,7 +10,7 @@
 
 .ui.borderless.bottommenu.menu {
   padding-top: 50px;
-  background: linear-gradient(to bottom, #167cf9, #147cf9, #0e4b98);
+  background: linear-gradient(to bottom, #147cf9, #0e4b98);
   box-shadow: none;
   border: none;
   padding-bottom: 50px;
@@ -58,5 +58,10 @@ h5.ui.header.circle {
 }
 
 .center {
-  background: linear-gradient(to bottom, #167cf9, #147cf9, #0e4b98);
+  background-image: url(public/images/Poptropica.png);
+  height: 660px;
+  color: white;
+  background-size: cover;
+  box-shadow: none;
+  border: none;
 }
