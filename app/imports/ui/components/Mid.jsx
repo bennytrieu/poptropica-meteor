@@ -5,7 +5,7 @@ export default class Mid extends React.Component {
   render() {
     return (
       <div className='center'>
-        <Header as='h5'>keep</Header>
+        <Header as='h2' className='custom'>apple</Header>
       </div>
     );
   }

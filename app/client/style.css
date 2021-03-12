@@ -6,6 +6,7 @@
   background: #167cf9;
   box-shadow: none;
   border: none;
+  padding: 25px 25px 25px 25px;
 }
 
 .ui.borderless.bottommenu.menu {
@@ -21,9 +22,10 @@
   color: #167cf9;
   border-radius: 50px;
   margin-right: 21px;
-  padding: 9px 33px;
-  font-size: 20px;
+  padding: 60px 60px;
+  font-size: 250px;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  height: 60px;
   float: right;
 }
 
@@ -58,10 +60,14 @@ h5.ui.header.circle {
 }
 
 .center {
-  background-image: url(public/images/Poptropica.png);
+  background: url(images/Poptropica.png);
   height: 660px;
   color: white;
   background-size: cover;
   box-shadow: none;
   border: none;
+}
+
+h2.ui.header.custom {
+  color: #2FBDFD;
 }

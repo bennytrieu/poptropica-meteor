@@ -16,7 +16,7 @@ export default class TopMenu extends React.Component {
         <Menu.Item><Header as ='h5' className='whitetext'>Blog</Header></Menu.Item>
         <Menu.Item><Header as ='h5' className='whitetext'>Island Tours</Header></Menu.Item>
         <Menu.Item className="right fitted">
-          <Button className='right fitted button'>Log in</Button>
+          <Button size='massive' className='right fitted button'>Log in</Button>
         </Menu.Item>
 
       </Menu>
